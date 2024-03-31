@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://yufenyouluo.github.io/atom.xml" rel="self"/>
+  <link href="https://yufenyouluo.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://yufenyouluo.github.io/"/>
+  <link href="https://yufenyouluo.github.io/blog/"/>
   <updated>2024-03-31T01:35:34.428Z</updated>
-  <id>https://yufenyouluo.github.io/</id>
+  <id>https://yufenyouluo.github.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yufenyouluo.github.io/2024/03/31/hello-world/"/>
-    <id>https://yufenyouluo.github.io/2024/03/31/hello-world/</id>
+    <link href="https://yufenyouluo.github.io/blog/2024/03/31/hello-world/"/>
+    <id>https://yufenyouluo.github.io/blog/2024/03/31/hello-world/</id>
     <published>2024-03-31T01:37:15.611Z</published>
     <updated>2024-03-31T01:35:34.428Z</updated>
     
