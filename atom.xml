@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Hale</title>
   
-  
+  <subtitle>羽焚的blog</subtitle>
   <link href="https://yufenyouluo.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://yufenyouluo.github.io/blog/"/>
@@ -10,7 +10,7 @@
   <id>https://yufenyouluo.github.io/blog/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zeyu Hao</name>
     
   </author>
   
